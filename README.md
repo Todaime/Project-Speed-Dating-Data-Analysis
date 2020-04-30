@@ -1,7 +1,5 @@
 # Projet_Analyse_Speed-Dating
 
-One of my first project. An initiation to the art of data analysis.
+One of my first project and an initiation to the art of data analysis.
 
-I had to find a data set and make an analysis out of it.
-
-Please bu indulgent ;D 
+The objective was to find dataset and make an analysis out of it.
